@@ -1,3 +1,16 @@
+To run the project:
+1. Clone or download the GitHub repository.
+2. Install dependencies using requirements.txt.
+3. Ensure MongoDB is running locally.
+4. Run the FastAPI server using Uvicorn.
+5. Access Swagger documentation at http://127.0.0.1:8000/docs
+
+
+
+
+
+
+
 # Task Management Backend API
 
 This project is a **robust backend system for task management** built using **Python (FastAPI)** and **MongoDB (NoSQL)**.  
